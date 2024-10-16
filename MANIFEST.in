@@ -1,2 +1,2 @@
-graft src/harp
-graft src/zsprite
+include src/zsprite/*.asset
+include src/harp/*.asset
